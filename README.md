@@ -39,7 +39,7 @@
 </ul>
 
 <h2>Demo</h2>
-<img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG" alt="ReconCat" width="150px">
+<img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG" alt="ReconCat" width="100%">
 
 <h2>Usages</h2>
 
@@ -113,6 +113,8 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
 
 <h2>Samples</h2>
 
+<img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG" alt="ReconCat" width="100%">
+<img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG" alt="ReconCat" width="100%">
 
 
  
