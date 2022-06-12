@@ -33,14 +33,13 @@
 
 <h2>Installation</h2>
 <ul>
-  <li>git clone git@github.com:SecureAxom/ReconCat.git</li>
+  <li>git clone https://github.com/SecureAxom/ReconCat.git</li>
   <li>cd ReconCat</li>
-  </li>bash install.sh</li>
   <li>bash ReconCat.sh</li>
 </ul>
 
 <h2>Demo</h2>
-<img src="static/Demo_1.PNG" alt="ReconCat" width="150px">
+<img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG" alt="ReconCat" width="150px">
 
 <h2>Usages</h2>
 
