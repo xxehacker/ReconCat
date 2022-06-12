@@ -120,8 +120,8 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
 </thead>
 <tbody>
 <tr>
-<td align="left"><a target="_blank" rel="noopener noreferrer" href="https://cloud.githubusercontent.com/assets/17976841/25420100/9ee12cf6-2a80-11e7-8dfa-c2e3cfe71366.png"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG" alt="Index" style="max-width: 100%;"></a></td>
-<td align="right"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/17976841/65820886-91a4b200-e258-11e9-9a00-1e5905f6be16.jpg"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2.PNG" alt="f" style="max-width: 100%;"></a></td>
+<td align="left"><a target="_blank" rel="noopener noreferrer"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG" alt="Index" style="max-width: 50%;"></a></td>
+<td align="right"><a target="_blank" rel="noopener noreferrer"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2.PNG" alt="f" style="max-width: 50%;"></a></td>
 </tr>
 </tbody>
 </table>
