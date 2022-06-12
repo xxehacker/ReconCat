@@ -116,9 +116,9 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
 <table>
 <tbody>
 <tr>
-<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"  style="width: 100%;"></a></td>
-<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG" style="width: 100%;"></a></td>
-  <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG" style="width: 100%;"></a></td>
+<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"  style="width: 100%; height:100%;"></a></td>
+<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG" style="width: 100%;height:100%;"></a></td>
+  <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG" style="width: 100%;height:100%;"></a></td>
 </tr>
 </tbody>
 </table>
