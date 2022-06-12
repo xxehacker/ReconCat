@@ -1,1 +1,1 @@
-<a href="https://github.com/SecureAxom/ReconCat"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/logo.png" alt="ReconCat" style="max-width: 100%;"></a>
+<a href="https://github.com/SecureAxom/ReconCat"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/logo-recon.png" style="max-width: 100%;"></a>
