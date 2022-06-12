@@ -111,7 +111,7 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
  
 ```
 
-<h2>Samples</h2>
+<h2>ScreenShot</h2>
 
 <tr>
 <th align="left">Sample 1</th>
@@ -120,9 +120,9 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
 </thead>
 <tbody>
 <tr>
-<td align="left"><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"  style="max-width: 50%;"></a></td>
-<td align="right"><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG" astyle="max-width: 50%;"></a></td>
-  <td align="right"><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG" astyle="max-width: 50%;"></a></td>
+<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"  style="width: 50%;"></a></td>
+<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG" astyle="width: 50%;"></a></td>
+  <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG" astyle="width: 50%;"></a></td>
 </tr>
 </tbody>
 </table>
