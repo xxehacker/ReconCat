@@ -1,6 +1,5 @@
 
-<a align="right" href="https://github.com/SecureAxom/ReconCat">
-  <img 
-    src="https://github.com/SecureAxom/ReconCat/blob/master/static/logo-recon.png"
-  >
-</a>
+<h1 align="center">
+  <img src="static/logo-recon.png alt="ReconCat" width="200px"></a>
+  <br>
+</h1>
