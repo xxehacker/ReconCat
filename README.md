@@ -118,11 +118,13 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
 <tr>
 <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"  style="width: 250%; height:200%;"></a></td>
 <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG" style="width: 250%;height:200%;"></a></td>
-  <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG" style="width: 300%;height:250%;"></a></td>
+ <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG" style="width: 300%;height:250%;"></a></td>
 </tr>
 </tbody>
 </table>
  
+ <h2>License</h2>
+ <a href="https://github.com/SecureAxom/ReconCat/blob/master/LICENSE"><p>This project is licensed under the MIT License</p></a>
  
   
   
