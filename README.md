@@ -122,6 +122,7 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
   <tr>
     <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG"></a></td>
     <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"></a></td>
+    <td><a target="_blank"><img src="static/Thanks.PNG"></a></td>
   </tr>  
 </tbody>
 </table>
