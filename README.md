@@ -37,6 +37,7 @@
 > git clone https://github.com/SecureAxom/ReconCat.git
 > cd ReconCat/
 > chmod +x install.sh
+> bash install.sh
 > bash ReconCat.sh
 
 ```
@@ -115,7 +116,7 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
 <table>
 <tbody>
 <tr>
-<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"  style="width: 500%; height:500%;"></a></td>
+<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"></a></td>
 <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG" style="width: 500%;height:500%;"></a></td>
  <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG" style="width: 500%;height:500%;"></a></td>
 </tr>
