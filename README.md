@@ -43,7 +43,7 @@
 ```
 
 <h2>Demo</h2>
-<img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG" alt="ReconCat" width="100%">
+<img src="static/ReconCat-Demo.PNG" alt="ReconCat" width="100%">
 
 <h2>Usages</h2>
 
@@ -119,6 +119,10 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
 <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"></a></td>
 <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG"></a></td>
 </tr>
+  <tr>
+    <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG"></a></td>
+    <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"></a></td>
+  </tr>  
 </tbody>
 </table>
  
