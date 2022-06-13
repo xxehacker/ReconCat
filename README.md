@@ -9,7 +9,7 @@
 <h4 align="center" dir="auto"> ReconCat is a OSINT and Reconnaissance tool written in bash script </h4>
 <p align="center" dir="auto">
   <a href="https://github.com/secureaxom">
-    <img src="https://img.shields.io/github/release/s0md3v/Smap.svg?label=version" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/version-v1-brightgreen.svg?style=flat" style="max-width: 100%;">
   </a>
   <a href="https://github.com/secureaxom">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" style="max-width: 100%;">
@@ -32,11 +32,14 @@
 </ul>  
 
 <h2>Installation</h2>
-<ul>
-  <li>git clone https://github.com/SecureAxom/ReconCat.git</li>
-  <li>cd ReconCat</li>
-  <li>bash ReconCat.sh</li>
-</ul>
+
+```
+> git clone https://github.com/SecureAxom/ReconCat.git
+> cd ReconCat/
+> chmod +x install.sh
+> bash ReconCat.sh
+
+```
 
 <h2>Demo</h2>
 <img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG" alt="ReconCat" width="100%">
@@ -90,7 +93,7 @@ bash install.sh
  
  ```
  
- #install requirements
+#install requirements
 
 #ROOT PRIVILEGIES
 sudo apt-get update
@@ -100,10 +103,6 @@ echo ""
 echo -e "Installing git"
 sudo apt-get install git -y 2> /dev/null &> /dev/null
 sudo apt-get install curl -y 2> /dev/null &> /dev/null
-# sudo apt-get install unzip -y 2> /dev/null &> /dev/null
-# sudo apt-get install -y golang 2> /dev/null &> /dev/null
-sudo apt-get python3 -y  2> /dev/null &> /dev/null
-sudo apt install python3-pip -y 2> /dev/null &> /dev/null
 sudo apt-get install nmap -y 2> /dev/null &> /dev/null
 sudo apt-get install wpscan -y 2> /dev/null &> /dev/null
 echo  "Installing jq"
@@ -116,9 +115,9 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
 <table>
 <tbody>
 <tr>
-<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"  style="width: 250%; height:200%;"></a></td>
-<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG" style="width: 250%;height:200%;"></a></td>
- <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG" style="width: 300%;height:250%;"></a></td>
+<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"  style="width: 500%; height:500%;"></a></td>
+<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG" style="width: 500%;height:500%;"></a></td>
+ <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG" style="width: 500%;height:500%;"></a></td>
 </tr>
 </tbody>
 </table>
