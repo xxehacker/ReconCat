@@ -8,10 +8,10 @@
 
 <h4 align="center" dir="auto"> ReconCat Is A OSINT And Reconnaissance Tool Written In Bash Script </h4>
 <p align="center" dir="auto">
-  <a href="https://github.com/secureaxom">
+  <a href="https://github.com/SecureAxom/ReconCat">
     <img src="https://img.shields.io/badge/version-v1-brightgreen.svg?style=flat" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/secureaxom">
+  <a href="https://github.com/SecureAxom/ReconCat">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" style="max-width: 100%;">
   </a>
 </p>
