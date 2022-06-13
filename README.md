@@ -6,7 +6,7 @@
   ReconCat 
 </h1>
 
-<h4 align="center" dir="auto"> ReconCat is a OSINT and Reconnaissance tool written in bash script </h4>
+<h4 align="center" dir="auto"> ReconCat Is A OSINT And Reconnaissance Tool Written In Bash Script </h4>
 <p align="center" dir="auto">
   <a href="https://github.com/secureaxom">
     <img src="https://img.shields.io/badge/version-v1-brightgreen.svg?style=flat" style="max-width: 100%;">
