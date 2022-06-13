@@ -124,7 +124,7 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
 </table>
  
  <h2>License</h2>
- <a href="https://github.com/SecureAxom/ReconCat/blob/master/LICENSE"><p>This project is licensed under the MIT License</p></a>
+ <a href="https://github.com/SecureAxom/ReconCat/blob/master/LICENSE"><p>This project is licensed under the GNU v3.0 License</p></a>
  
   
   
