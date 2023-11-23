@@ -34,7 +34,7 @@
 <h2>Installation</h2>
 
 ```
-> git clone https://github.com/SecureAxom/ReconCat.git
+> git clone https://github.com/xxehacker/ReconCat.git
 > cd ReconCat/
 > chmod +x install.sh
 > bash install.sh
@@ -62,7 +62,7 @@ bash ReconCat.sh
  ||  ReconCat Created By  : Mridupawan              *
  ||  Version              : V.1                     *
  ||  Instagram            : Mridupawan503           *
- ||  Follow me on Github  : @Secureaxom             *
+ ||  Follow me on Github  : @xxehacker             *
     ------------------------------------------------
 
  Options ::
@@ -116,19 +116,19 @@ sudo apt install jq -y 2> /dev/null &> /dev/null
 <table>
 <tbody>
 <tr>
-<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"></a></td>
-<td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo2..PNG"></a></td>
+<td><a target="_blank"><img src="https://github.com/xxehacker/ReconCat/blob/master/static/Demo%201.PNG"></a></td>
+<td><a target="_blank"><img src="https://github.com/xxehacker/ReconCat/blob/master/static/Demo2..PNG"></a></td>
 </tr>
   <tr>
-    <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo4.PNG"></a></td>
-    <td><a target="_blank"><img src="https://github.com/SecureAxom/ReconCat/blob/master/static/Demo%201.PNG"></a></td>
+    <td><a target="_blank"><img src="https://github.com/xxehacker/ReconCat/blob/master/static/Demo4.PNG"></a></td>
+    <td><a target="_blank"><img src="https://github.com/xxehacker/ReconCat/blob/master/static/Demo%201.PNG"></a></td>
   </tr>  
 <!--   <tr><td><a target="_blank"><img src="static/Thanks.PNG"></a></td></tr> -->
 </tbody>
 </table>
  
  <h2>License</h2>
- <a href="https://github.com/SecureAxom/ReconCat/blob/master/LICENSE"><p>This project is licensed under the GNU v3.0 License</p></a>
+ <a href="https://github.com/xxehacker/ReconCat/blob/master/LICENSE"><p>This project is licensed under the GNU v3.0 License</p></a>
  
   
   
