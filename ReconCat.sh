@@ -30,7 +30,7 @@ fi
 
 Version="V.1"
 Instagram="Mridupawan503"
-Twitter="SecureAxom"
+Twitter="xxehacker0x1"
 
 logo() {
 
@@ -71,7 +71,7 @@ banner() {
         echo -e $Cafe" ||  ""ReconCat Created By  "$white": "$Cafe"Mridupawan             "$RESET" *"
         echo -e $Cafe" ||  ""Version              "$white": "$Cafe"$Version                    "$RESET" *"
         echo -e $Cafe" ||  ""Instagram            "$white": "$Cafe"$Instagram          "$RESET" *"
-        echo -e $Cafe" ||  ""Follow me on Github  "$white": "$Cafe"@Secureaxom            "$RESET" *"
+        echo -e $Cafe" ||  ""Follow me on Github  "$white": "$Cafe"@xxehacker            "$RESET" *"
         echo -e "$yellow""    ------------------------------------------------"
         echo ""
         echo -e "$Cafe Options :: $nc"
